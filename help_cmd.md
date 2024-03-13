@@ -19,4 +19,4 @@ dir
 ```sh
 del <filename>
 ```
-Test_1
+T
