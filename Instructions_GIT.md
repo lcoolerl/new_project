@@ -11,3 +11,5 @@ git add <directory>
 ```
 git commit
 ```
+Делает снимок текущего состояния проекта
+Test_1
