@@ -24,3 +24,7 @@ git commit -m "commit message"
 git commit -am "commit message"
 ```
 Объединяет две предыдущих функции
+```
+git diff <commit-1> <commit-4>
+```
+Сравнивает 2 коммита/ветки между собой
