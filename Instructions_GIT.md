@@ -32,3 +32,11 @@ git commit -am "commit message"
 git diff <commit-1> <commit-4>
 ```
 Сравнивает 2 коммита/ветки между собой
+```
+git branch
+```
+Отображает ветки в текущем каталоге
+```
+git log --oneline --graph
+```
+Отображает лог текущего каталога с ветвлением
