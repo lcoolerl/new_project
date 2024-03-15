@@ -29,6 +29,10 @@ git commit -am "commit message"
 ```
 Объединяет две предыдущих функции
 ```
+git commit --amend
+```
+Сохраняет снимки выбранных файлов (add) в последний коммит и открывает окно редактирования commit message
+```
 git diff <commit-1> <commit-4>
 ```
 Сравнивает 2 коммита/ветки между собой
@@ -37,6 +41,18 @@ git branch
 ```
 Отображает ветки в текущем каталоге
 ```
+git branch <branch_name>
+```
+Создает новую ветку <branch_name>
+```
 git log --oneline --graph
 ```
 Отображает лог текущего каталога с ветвлением
+```
+git branch -d <name_branch>
+```
+Удаляет ветку <name_branch>
+```
+git clone <url_repository>
+```
+Копирует удаленный репозиторий в текущую папку

@@ -19,4 +19,8 @@ dir
 ```sh
 del <filename>
 ```
-T
+
+Создание новой дирректории
+```sh
+mkdir <folder_name>
+```
