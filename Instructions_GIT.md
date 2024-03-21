@@ -68,3 +68,4 @@ git clone <url_repository>
 git remote add origin <url>
 ```
 Копирует удаленный репозиторий в текущую папку
+# Все ерунда, переделывай
