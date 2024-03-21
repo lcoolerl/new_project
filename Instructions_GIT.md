@@ -72,3 +72,4 @@ git remote add origin <url>
 git merge <branch_name>
 ```
 Выполнить слияние <branch_name> с текущей веткой
+# Все ерунда, переделывай
